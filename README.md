@@ -1,6 +1,12 @@
 # TicTacToe
 
-### Tic Tac Toe game using Typescript with two mode ( 2 players &amp; 1 player with computer )
+#### Tic Tac Toe game using Typescript with two mode ( 2 players &amp; 1 player with computer )
+
+##### Mode :  1 player or 2 players
+##### Theme : Light & Dark
+##### UI : Multiple screens
+
+##### Stack : Html5, CSS, TypeScript
 
 #### Screens
 ![Screenshot_2](https://user-images.githubusercontent.com/54776723/224295671-9707b311-3719-4f88-a81e-44ba7f748d22.png)
